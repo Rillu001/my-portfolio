@@ -61,7 +61,7 @@ export function Education() {
       id="education"
       label="03 — Education"
       title="Academic background"
-      subtitle="B.E. completed 2011–2015 · MCA in cyber security at Manipal University, Rajasthan (2025–2026)."
+      subtitle="B.E. completed 2011–2015 · MCA in cyber security at Manipal University, Rajasthan (2025–2027)."
     >
       <div className="grid gap-4 md:grid-cols-2">
         {education.map((entry, index) => (

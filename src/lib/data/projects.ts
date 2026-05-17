@@ -23,4 +23,27 @@ export const projects: Project[] = [
     techStack: ["React", "Vite", "PHP", "Razorpay", "JWT", "REST API"],
     url: "https://www.prbiground.com",
   },
+  {
+    title: "FinKnots",
+    type: "AI FinTech · Android (Beta)",
+    description:
+      "AI money coach for UPI-first India — auto-tracks UPI, cards, and bank spends from SMS, with manual entry for cash and offline payments, smart categorization, budgets, and savings nudges.",
+    techStack: ["React", "Android", "AI", "UPI", "SMS Parsing"],
+    url: "https://finknots.com",
+  },
+  {
+    title: "Ihsania",
+    type: "Expo Mobile App",
+    description:
+      "Peaceful Islamic habit tracker for salah, dhikr, Quran habits, and spiritual growth — daily prayer streaks, tasbeeh counter, private journal, silent deeds, and gentle reminders. Offline-first with Expo.",
+    techStack: [
+      "Expo",
+      "React Native",
+      "TypeScript",
+      "SQLite",
+      "NativeWind",
+      "Zustand",
+    ],
+    url: "https://github.com/Rillu001/Ihsania",
+  },
 ];

@@ -24,14 +24,14 @@ export const navLinks = [
 export const aboutHighlights = [
   { label: "Experience", value: "10+ yrs" },
   { label: "B.E. CSE", value: "2011–2015" },
-  { label: "MCA", value: "2025–2026" },
+  { label: "MCA", value: "2025–2027" },
   { label: "University", value: "Manipal" },
 ] as const;
 
 export const aboutContent = [
   "I started building on the web in 2015 and grew from web design into full stack product development across hosting, ecommerce, logistics, and healthcare.",
   "Today I combine solid engineering fundamentals with AI-assisted development — using tools like Cursor, Claude, and agent workflows to move from idea to working software in shorter cycles.",
-  "B.E. Computer Science (2011–2015) from Christian College of Engineering & Technology. Currently pursuing MCA in Cyber Security (2025–2026) at Manipal University, Rajasthan.",
+  "B.E. Computer Science (2011–2015) from Christian College of Engineering & Technology. Currently pursuing MCA in Cyber Security (2025–2027) at Manipal University, Rajasthan.",
 ] as const;
 
 export const strengths = [

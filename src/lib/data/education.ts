@@ -20,7 +20,7 @@ export const education: EducationEntry[] = [
   {
     degree: "MCA — Cyber Security",
     institution: "Manipal University, Rajasthan",
-    years: "2025 – 2026",
+    years: "2025 – 2027",
     mode: "Online",
     status: "pursuing",
     details:
